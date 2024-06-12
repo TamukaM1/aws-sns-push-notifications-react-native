@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790242952454",
+    "project_id": "aws-sns-push-b76d0",
+    "storage_bucket": "aws-sns-push-b76d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790242952454:android:4cb2b23ef07b06b9a24a87",
+        "android_client_info": {
+          "package_name": "com.awssnspush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgYRTvsYuG14VnBpGTsPRux37RGIDY-N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
